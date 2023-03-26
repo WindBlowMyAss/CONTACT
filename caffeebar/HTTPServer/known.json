@@ -1,0 +1,17 @@
+{
+    "msg": {
+        "carPlateColorFlag": "0",
+        "carPlateNo": "",
+        "confidence": "52.0158",
+        "deviceCode": "6cd1cd760799b33b",
+        "facePicture": "<BASE64>",
+        "port": "554",
+        "recordTimes": "2022-03-10 15:57:04",
+        "smallPicture": "<BASE64>",
+        "strangeFlag": "0",
+        "workerAttibute": "3",
+        "workerName": "yaofeiyu",
+        "workerNo": "1234"
+    },
+    "msgType": "deviceResultUploadReq"
+}
